@@ -1,0 +1,49 @@
+{
+    "RECORDS": [
+        {
+            "countryname": "Angola",
+            "Id": 1,
+            "countrycode": "AO"
+        },
+        {
+            "countryname": "Afghanistan",
+            "Id": 2,
+            "countrycode": "AF"
+        },
+        {
+            "countryname": "Albania",
+            "Id": 3,
+            "countrycode": "AL"
+        },
+        {
+            "countryname": "Algeria",
+            "Id": 4,
+            "countrycode": "DZ"
+        },
+        {
+            "countryname": "Andorra",
+            "Id": 5,
+            "countrycode": "AD"
+        },
+        {
+            "countryname": "Anguilla",
+            "Id": 6,
+            "countrycode": "AI"
+        },
+        {
+            "countryname": "Antigua and Barbuda",
+            "Id": 7,
+            "countrycode": "AG"
+        },
+        {
+            "countryname": "Argentina",
+            "Id": 8,
+            "countrycode": "AR"
+        },
+        {
+            "countryname": "Armenia",
+            "Id": 9,
+            "countrycode": "AM"
+        }
+    ]
+}
